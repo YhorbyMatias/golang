@@ -1,4 +1,4 @@
 # Example how for works on Golang
   
-this repo is made by me to know the two forms that we can use for on Golang.
+This repo is made by me to learn Golang here we can find some programs that show how Golang works.
 Only for educational purpose.
