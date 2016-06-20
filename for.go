@@ -1,4 +1,4 @@
-  // ejemplo uso  for edu
+  // ejemplo uso  for educational purpose
 
 package main
 
